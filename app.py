@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import librosa
-import librosa.display
 from keras.models import load_model
 
 # Load the trained model
